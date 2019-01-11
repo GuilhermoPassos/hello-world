@@ -1,3 +1,2 @@
-# hello-world
-Projects 
+# hello-world 
 I'm learning,
